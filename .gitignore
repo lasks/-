@@ -1,0 +1,28 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 简历生成文件（含个人信息，不上传）
+简历.docx
+简历_新版.docx
+简历_新版.pdf
+~$*.docx
+photo.jpg
+照片.*
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+test.docx
+test2.docx
+*.tmp
